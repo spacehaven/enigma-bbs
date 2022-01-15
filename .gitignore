@@ -12,3 +12,6 @@ node_modules/
 docs/_site/
 docs/.sass-cache/
 .vscode/
+gopher/gophermap
+package-lock.json
+
